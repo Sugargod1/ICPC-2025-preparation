@@ -1,0 +1,8 @@
+Tree:
+Binary, BST, AVL, B-tree, quad tree, K-d tree, Segment trees, Heap, Minimum spanning tree.
+Graph, weighted directional or undirectional.
+Pretty simple but it has some good math in it so we need to study some math also taking care of 
+graph algorithms and theory.
+Algorithm paradigmss: Dynamic programming, Divide and Conquer, and Greedy.
+Useful data structures: Disjoint sets.
+
