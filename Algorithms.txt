@@ -1,0 +1,4 @@
+Graph: Djikistra, Union Find
+DP: 1d, 2d, tree, LIS (longest increasing subsequence), 
+LCS (longest common substring), 0/1 or unbounded knapsack
+Query: 1d, 2d prefix sum, difference array, segment tree
